@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:a="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    a:orientation="vertical"
+    a:layout_width="match_parent"
+    a:layout_height="match_parent"
+    tools:context="com.example.weatherapp.AddNewCity">
+
+    <SearchView
+        a:id = "@+id/search_view"
+        a:layout_width="match_parent"
+        a:layout_height="wrap_content"/>
+    <ListView
+        a:id = "@+id/all_cities"
+        a:layout_width="match_parent"
+        a:layout_height="wrap_content"
+        a:layout_weight="1"/>
+</LinearLayout>

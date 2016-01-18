@@ -1,0 +1,460 @@
+{"_id":519188,"name":"Novinki","country":"RU","coord":{"lon":37.666668,"lat":55.683334}}
+{"_id":529334,"name":"Mar’ina Roshcha","country":"RU","coord":{"lon":37.611111,"lat":55.796391}}
+{"_id":473537,"name":"Vinogradovo","country":"RU","coord":{"lon":38.545555,"lat":55.423332}}
+{"_id":569143,"name":"Cherkizovo","country":"RU","coord":{"lon":37.728889,"lat":55.800835}}
+{"_id":464176,"name":"Zavety Il’icha","country":"RU","coord":{"lon":37.849998,"lat":56.049999}}
+{"_id":464737,"name":"Zaponor’ye","country":"RU","coord":{"lon":38.861942,"lat":55.639999}}
+{"_id":803611,"name":"Yurevichi","country":"RU","coord":{"lon":39.934444,"lat":43.600555}}
+{"_id":2051302,"name":"Priiskovyy","country":"RU","coord":{"lon":132.822495,"lat":42.819168}}
+{"_id":563692,"name":"Dzhaga","country":"RU","coord":{"lon":42.650002,"lat":43.25}}
+{"_id":481725,"name":"Tret’ya Rota","country":"RU","coord":{"lon":39.681389,"lat":43.741943}}
+{"_id":2017370,"name":"Russian Federation","country":"RU","coord":{"lon":100,"lat":60}}
+{"_id":2045761,"name":"De-Friz","country":"RU","coord":{"lon":131.991394,"lat":43.27861}}
+{"_id":476350,"name":"Vavibet","country":"RU","coord":{"lon":34.916668,"lat":67.933334}}
+{"_id":475279,"name":"Verkhneye Shchekotikhino","country":"RU","coord":{"lon":36.133331,"lat":53}}
+{"_id":802899,"name":"Mutaykutan","country":"RU","coord":{"lon":47.660641,"lat":42.818859}}
+{"_id":523523,"name":"Nalchik","country":"RU","coord":{"lon":43.618889,"lat":43.498058}}
+{"_id":546448,"name":"Kolganov","country":"RU","coord":{"lon":40.066669,"lat":44.366669}}
+{"_id":500023,"name":"Rybatskiy","country":"RU","coord":{"lon":44.166389,"lat":44.799171}}
+{"_id":524894,"name":"Moskva","country":"RU","coord":{"lon":37.606667,"lat":55.761665}}
+{"_id":494806,"name":"Sheremetyevskiy","country":"RU","coord":{"lon":37.491112,"lat":55.98}}
+{"_id":467104,"name":"Yershovo","country":"RU","coord":{"lon":36.858055,"lat":55.771111}}
+{"_id":462352,"name":"Znamenka","country":"RU","coord":{"lon":35.981392,"lat":52.896671}}
+{"_id":524925,"name":"Moskovskaya Oblast’","country":"RU","coord":{"lon":37.628334,"lat":55.75639}}
+{"_id":510291,"name":"Peterhof","country":"RU","coord":{"lon":29.9,"lat":59.883331}}
+{"_id":518858,"name":"Grebnevo","country":"RU","coord":{"lon":38.072777,"lat":55.961945}}
+{"_id":499452,"name":"Safonovo","country":"RU","coord":{"lon":33.216671,"lat":55.150002}}
+{"_id":2027487,"name":"Arkhara","country":"RU","coord":{"lon":130.084198,"lat":49.4212}}
+{"_id":498817,"name":"Saint Petersburg","country":"RU","coord":{"lon":30.264168,"lat":59.894444}}
+{"_id":539907,"name":"Kudepsta","country":"RU","coord":{"lon":39.896389,"lat":43.494446}}
+{"_id":501847,"name":"Rochegda","country":"RU","coord":{"lon":43.25,"lat":62.799999}}
+{"_id":569339,"name":"Cheremisinovo","country":"RU","coord":{"lon":37.264599,"lat":51.885502}}
+{"_id":1496889,"name":"Novoomskiy","country":"RU","coord":{"lon":73.301743,"lat":54.841518}}
+{"_id":487928,"name":"Staryy Oskol","country":"RU","coord":{"lon":37.841667,"lat":51.296665}}
+{"_id":2013465,"name":"Verkhoyansk","country":"RU","coord":{"lon":133.384995,"lat":67.544724}}
+{"_id":2127202,"name":"Anadyr","country":"RU","coord":{"lon":177.483337,"lat":64.75}}
+{"_id":2122311,"name":"Oymyakon","country":"RU","coord":{"lon":142.816666,"lat":63.466671}}
+{"_id":578652,"name":"Batyunino","country":"RU","coord":{"lon":37.700001,"lat":55.66}}
+{"_id":583489,"name":"Alachkovo","country":"RU","coord":{"lon":37.560001,"lat":55.200001}}
+{"_id":6417336,"name":"Dal’niye Prudishchi","country":"RU","coord":{"lon":37.860279,"lat":55.553333}}
+{"_id":520077,"name":"Nagatino","country":"RU","coord":{"lon":37.683334,"lat":55.683334}}
+{"_id":467951,"name":"Yelgazino","country":"RU","coord":{"lon":37.866669,"lat":55.416668}}
+{"_id":576721,"name":"Besedy","country":"RU","coord":{"lon":37.790001,"lat":55.610001}}
+{"_id":470819,"name":"Vvedenskoye","country":"RU","coord":{"lon":36.894444,"lat":55.695278}}
+{"_id":502018,"name":"Reutov","country":"RU","coord":{"lon":37.861668,"lat":55.759445}}
+{"_id":538601,"name":"Kurovskoye","country":"RU","coord":{"lon":38.910831,"lat":55.578335}}
+{"_id":820027,"name":"Gorenosovo","country":"RU","coord":{"lon":37.250278,"lat":55.818054}}
+{"_id":560756,"name":"Golitsyno","country":"RU","coord":{"lon":36.983334,"lat":55.612221}}
+{"_id":519690,"name":"Novaya Gollandiya","country":"RU","coord":{"lon":30.290508,"lat":59.929432}}
+{"_id":536203,"name":"Sankt-Peterburg","country":"RU","coord":{"lon":30.25,"lat":59.916668}}
+{"_id":531232,"name":"Malaya Yablonovka","country":"RU","coord":{"lon":30.433332,"lat":59.933334}}
+{"_id":531483,"name":"Malaya Okhta","country":"RU","coord":{"lon":30.4125,"lat":59.928333}}
+{"_id":521561,"name":"Nikol’skoye","country":"RU","coord":{"lon":36.716667,"lat":56.150002}}
+{"_id":537691,"name":"Kuznetsovo","country":"RU","coord":{"lon":36.650002,"lat":56.133331}}
+{"_id":463666,"name":"Zen’kino","country":"RU","coord":{"lon":36.771942,"lat":55.94389}}
+{"_id":485279,"name":"Sychëvka","country":"RU","coord":{"lon":36.822498,"lat":55.914165}}
+{"_id":6726099,"name":"Vecheri","country":"RU","coord":{"lon":37.512775,"lat":54.844013}}
+{"_id":465825,"name":"Zabor’ye","country":"RU","coord":{"lon":37.785278,"lat":55.384167}}
+{"_id":485275,"name":"Sychevo","country":"RU","coord":{"lon":38.71384,"lat":55.061958}}
+{"_id":499051,"name":"Samashki","country":"RU","coord":{"lon":45.301392,"lat":43.290562}}
+{"_id":561534,"name":"Gerzel-Aul","country":"RU","coord":{"lon":46.4025,"lat":43.247219}}
+{"_id":580299,"name":"Avdon","country":"RU","coord":{"lon":55.716671,"lat":54.666672}}
+{"_id":6417711,"name":"Posëlok Neftebazy","country":"RU","coord":{"lon":37.851944,"lat":55.785831}}
+{"_id":502069,"name":"Reshetnikovo","country":"RU","coord":{"lon":36.566666,"lat":56.450001}}
+{"_id":480041,"name":"Tverskaya Oblast’","country":"RU","coord":{"lon":35.004879,"lat":57.009644}}
+{"_id":517183,"name":"Novyye Berëzki","country":"RU","coord":{"lon":37.366669,"lat":56.866669}}
+{"_id":509820,"name":"Petrozavodsk","country":"RU","coord":{"lon":34.346909,"lat":61.784912}}
+{"_id":545633,"name":"Kondoka","country":"RU","coord":{"lon":30.6,"lat":64.583336}}
+{"_id":547560,"name":"Klimovsk","country":"RU","coord":{"lon":37.525002,"lat":55.364723}}
+{"_id":498349,"name":"Savëlovo","country":"RU","coord":{"lon":37.366669,"lat":56.866669}}
+{"_id":513633,"name":"Oynashniyemi","country":"RU","coord":{"lon":30.416668,"lat":65.116669}}
+{"_id":523110,"name":"Nazarovo","country":"RU","coord":{"lon":36.616669,"lat":56.066666}}
+{"_id":507614,"name":"Pokoyevo","country":"RU","coord":{"lon":36.633331,"lat":56.033333}}
+{"_id":498337,"name":"Savel’yevo","country":"RU","coord":{"lon":36.599998,"lat":56}}
+{"_id":565711,"name":"Dolevo","country":"RU","coord":{"lon":36.615833,"lat":55.993332}}
+{"_id":538585,"name":"Kursakovo-Markovo","country":"RU","coord":{"lon":36.641666,"lat":55.978611}}
+{"_id":562837,"name":"Filatovo","country":"RU","coord":{"lon":36.677223,"lat":55.973057}}
+{"_id":561278,"name":"Glebovo","country":"RU","coord":{"lon":36.69389,"lat":55.955002}}
+{"_id":571144,"name":"Bukarevo","country":"RU","coord":{"lon":36.728889,"lat":55.952499}}
+{"_id":569406,"name":"Chepelëvo","country":"RU","coord":{"lon":37.491112,"lat":55.18222}}
+{"_id":476368,"name":"Vatutino","country":"RU","coord":{"lon":37.686668,"lat":55.879723}}
+{"_id":547379,"name":"Klyaz’ma","country":"RU","coord":{"lon":37.834721,"lat":55.979168}}
+{"_id":503978,"name":"Pushkino","country":"RU","coord":{"lon":37.833332,"lat":56.011112}}
+{"_id":528211,"name":"Mayskoye","country":"RU","coord":{"lon":37.916668,"lat":56.133331}}
+{"_id":463790,"name":"Zelentsino","country":"RU","coord":{"lon":38.75,"lat":56.283333}}
+{"_id":532598,"name":"Lyubimezh","country":"RU","coord":{"lon":38.799999,"lat":56.083332}}
+{"_id":473936,"name":"Vetchi","country":"RU","coord":{"lon":39,"lat":55.950001}}
+{"_id":566950,"name":"Davydovo","country":"RU","coord":{"lon":38.856945,"lat":55.609722}}
+{"_id":818493,"name":"Shchekutina","country":"RU","coord":{"lon":36.699444,"lat":55.327499}}
+{"_id":818486,"name":"Rogacheva","country":"RU","coord":{"lon":36.665001,"lat":55.261944}}
+{"_id":523186,"name":"Navlya","country":"RU","coord":{"lon":34.49889,"lat":52.828056}}
+{"_id":818030,"name":"Svitino","country":"RU","coord":{"lon":37.372501,"lat":55.306667}}
+{"_id":473353,"name":"Vislyy Bor","country":"RU","coord":{"lon":41.81139,"lat":53.665558}}
+{"_id":6708894,"name":"Burovka","country":"RU","coord":{"lon":47.502453,"lat":52.455254}}
+{"_id":478203,"name":"Uspenskiy","country":"RU","coord":{"lon":48.700001,"lat":52.049999}}
+{"_id":474751,"name":"Verkhnyaya Akhtuba","country":"RU","coord":{"lon":44.790001,"lat":48.771667}}
+{"_id":462970,"name":"Zhirovo","country":"RU","coord":{"lon":38.540558,"lat":55.601944}}
+{"_id":576263,"name":"Biserovo","country":"RU","coord":{"lon":38.115833,"lat":55.783054}}
+{"_id":471980,"name":"Voroniy Ostrov","country":"RU","coord":{"lon":35.5,"lat":62.183334}}
+{"_id":572275,"name":"Borodino","country":"RU","coord":{"lon":36.733334,"lat":56.316666}}
+{"_id":481603,"name":"Troitskaya","country":"RU","coord":{"lon":29.75,"lat":59.916668}}
+{"_id":560455,"name":"Gol’yevo","country":"RU","coord":{"lon":37.31139,"lat":55.799721}}
+{"_id":471748,"name":"Vorya-Bogorodskoye","country":"RU","coord":{"lon":38.166668,"lat":56.049999}}
+{"_id":495619,"name":"Sharya","country":"RU","coord":{"lon":45.514442,"lat":58.36861}}
+{"_id":572248,"name":"Borodulino","country":"RU","coord":{"lon":42.883331,"lat":56.650002}}
+{"_id":527451,"name":"Mervino","country":"RU","coord":{"lon":39.669998,"lat":54.642776}}
+{"_id":6198157,"name":"Yalpay","country":"RU","coord":{"lon":47.899166,"lat":56.176388}}
+{"_id":6198533,"name":"Puchina","country":"RU","coord":{"lon":47.786667,"lat":56.197498}}
+{"_id":491687,"name":"Smolensk","country":"RU","coord":{"lon":32.040001,"lat":54.781666}}
+{"_id":467030,"name":"Yesiplevo","country":"RU","coord":{"lon":46.366669,"lat":60.733334}}
+{"_id":823660,"name":"Verkhovskoye","country":"RU","coord":{"lon":39.816666,"lat":43.623333}}
+{"_id":567322,"name":"Chvizhepse","country":"RU","coord":{"lon":40.085278,"lat":43.631111}}
+{"_id":542681,"name":"Krasnaya Polyana","country":"RU","coord":{"lon":40.207222,"lat":43.675835}}
+{"_id":823675,"name":"Kul’turnoye Uchdere","country":"RU","coord":{"lon":39.636665,"lat":43.676945}}
+{"_id":805597,"name":"Sergey-Pole","country":"RU","coord":{"lon":39.704723,"lat":43.673889}}
+{"_id":805616,"name":"Nizhneye Orekhovo","country":"RU","coord":{"lon":39.7775,"lat":43.707222}}
+{"_id":805557,"name":"Vtoraya Rota","country":"RU","coord":{"lon":39.711109,"lat":43.772499}}
+{"_id":805559,"name":"Verkhnerusskaya Khobza","country":"RU","coord":{"lon":39.630001,"lat":43.782501}}
+{"_id":823556,"name":"Khartsiz Pervyy","country":"RU","coord":{"lon":39.638889,"lat":43.794167}}
+{"_id":490936,"name":"Solokhaul","country":"RU","coord":{"lon":39.678055,"lat":43.799442}}
+{"_id":570140,"name":"Bzogu","country":"RU","coord":{"lon":39.718613,"lat":43.812778}}
+{"_id":501043,"name":"Rozhdestvenskiy","country":"RU","coord":{"lon":39.583889,"lat":43.86639}}
+{"_id":804366,"name":"-","country":"RU","coord":{"lon":40.099167,"lat":44.304443}}
+{"_id":530631,"name":"Maloye Obraztsovo","country":"RU","coord":{"lon":38.150002,"lat":54.916668}}
+{"_id":481501,"name":"Troitskoye","country":"RU","coord":{"lon":35.917778,"lat":55.193054}}
+{"_id":2048736,"name":"Sanatornaya","country":"RU","coord":{"lon":131.984161,"lat":43.227501}}
+{"_id":554667,"name":"Kabardino-Balkarskaya Respublika","country":"RU","coord":{"lon":43.5,"lat":43.5}}
+{"_id":516981,"name":"Novyy Krugozor","country":"RU","coord":{"lon":42.50111,"lat":43.247223}}
+{"_id":2014571,"name":"Uglovoye","country":"RU","coord":{"lon":132.09166,"lat":43.328888}}
+{"_id":2021956,"name":"Knevichi","country":"RU","coord":{"lon":132.180283,"lat":43.399166}}
+{"_id":584243,"name":"Adler","country":"RU","coord":{"lon":39.919998,"lat":43.43}}
+{"_id":823631,"name":"Yakornaya Shchel'","country":"RU","coord":{"lon":39.565834,"lat":43.810555}}
+{"_id":584003,"name":"Agoy","country":"RU","coord":{"lon":39.029999,"lat":44.139999}}
+{"_id":501165,"name":"Rostovskaya Oblast’","country":"RU","coord":{"lon":42,"lat":47}}
+{"_id":553428,"name":"-","country":"RU","coord":{"lon":39.696945,"lat":47.279446}}
+{"_id":2013229,"name":"Vyazemskiy","country":"RU","coord":{"lon":134.752502,"lat":47.537777}}
+{"_id":797077,"name":"Popovka","country":"RU","coord":{"lon":40.347221,"lat":48.698891}}
+{"_id":798056,"name":"-","country":"RU","coord":{"lon":44.862778,"lat":48.735001}}
+{"_id":472045,"name":"Voronezh","country":"RU","coord":{"lon":39.169998,"lat":51.666389}}
+{"_id":575343,"name":"Bolokhovo","country":"RU","coord":{"lon":37.818333,"lat":54.093613}}
+{"_id":819162,"name":"Voslinka","country":"RU","coord":{"lon":38.533611,"lat":54.726112}}
+{"_id":524304,"name":"Murmanskaya Oblast’","country":"RU","coord":{"lon":34,"lat":68}}
+{"_id":528562,"name":"Matrosy","country":"RU","coord":{"lon":33.799999,"lat":61.783333}}
+{"_id":554230,"name":"Kaliningradskaya Oblast’","country":"RU","coord":{"lon":21.5,"lat":54.75}}
+{"_id":826279,"name":"Gorbatovka","country":"RU","coord":{"lon":20.156389,"lat":54.920555}}
+{"_id":826278,"name":"Prigorodnyy","country":"RU","coord":{"lon":20.156944,"lat":54.92889}}
+{"_id":2609894,"name":"Yantarnyy","country":"RU","coord":{"lon":19.938057,"lat":54.871666}}
+{"_id":873882,"name":"Torfyanoye","country":"RU","coord":{"lon":30.320557,"lat":60.077499}}
+{"_id":563249,"name":"Fedoreyevka","country":"RU","coord":{"lon":36.147499,"lat":53.004723}}
+{"_id":524844,"name":"Mostki","country":"RU","coord":{"lon":36.156666,"lat":52.99139}}
+{"_id":504849,"name":"Prokurovka","country":"RU","coord":{"lon":36.133331,"lat":52.983334}}
+{"_id":463043,"name":"Zhilina","country":"RU","coord":{"lon":36.083332,"lat":52.983334}}
+{"_id":515012,"name":"Orel","country":"RU","coord":{"lon":36.080276,"lat":52.965832}}
+{"_id":498093,"name":"Saygatovo","country":"RU","coord":{"lon":38.01667,"lat":54.866669}}
+{"_id":559229,"name":"Gostishchevo","country":"RU","coord":{"lon":36.655159,"lat":50.779449}}
+{"_id":543138,"name":"Kozlovka","country":"RU","coord":{"lon":35.196388,"lat":54.790001}}
+{"_id":525713,"name":"Mokroye","country":"RU","coord":{"lon":35.23056,"lat":54.759441}}
+{"_id":817438,"name":"Podbor’ye","country":"RU","coord":{"lon":35.261669,"lat":54.775002}}
+{"_id":538108,"name":"Kuvshinovo","country":"RU","coord":{"lon":35.275829,"lat":54.78056}}
+{"_id":545992,"name":"Kolykhmanovo","country":"RU","coord":{"lon":35.285,"lat":54.763062}}
+{"_id":483269,"name":"Terskol","country":"RU","coord":{"lon":42.515282,"lat":43.25528}}
+{"_id":1541618,"name":"Zaton","country":"RU","coord":{"lon":82.859718,"lat":55.032219}}
+{"_id":2014927,"name":"Tulun","country":"RU","coord":{"lon":100.57917,"lat":54.561111}}
+{"_id":2018046,"name":"Perevoz","country":"RU","coord":{"lon":100.633331,"lat":54.549999}}
+{"_id":2052144,"name":"Azey","country":"RU","coord":{"lon":100.76667,"lat":54.509171}}
+{"_id":2027288,"name":"Azey","country":"RU","coord":{"lon":100.791672,"lat":54.452782}}
+{"_id":2016742,"name":"Sheragul","country":"RU","coord":{"lon":100.89389,"lat":54.451389}}
+{"_id":2018854,"name":"Novotroitsk","country":"RU","coord":{"lon":101.044998,"lat":54.45472}}
+{"_id":2015082,"name":"Traktovaya","country":"RU","coord":{"lon":101.058891,"lat":54.481392}}
+{"_id":2014917,"name":"Tulyushka","country":"RU","coord":{"lon":101.169998,"lat":54.458328}}
+{"_id":2019963,"name":"Mingatuy","country":"RU","coord":{"lon":101.301392,"lat":54.431938}}
+{"_id":2052150,"name":"Yelanskiy","country":"RU","coord":{"lon":101.371109,"lat":54.34972}}
+{"_id":2021093,"name":"Kuytun","country":"RU","coord":{"lon":101.503609,"lat":54.341942}}
+{"_id":2023085,"name":"Kas’yanovka","country":"RU","coord":{"lon":101.583328,"lat":54.316669}}
+{"_id":804310,"name":"Tashlinskiy","country":"RU","coord":{"lon":42.088329,"lat":45.098061}}
+{"_id":518310,"name":"Novo-Pokrovskoye","country":"RU","coord":{"lon":47.98333,"lat":46.299999}}
+{"_id":804751,"name":"Salyno-Khulsunskiye","country":"RU","coord":{"lon":44.338058,"lat":46.38694}}
+{"_id":2121529,"name":"Sakhalinskaya Oblast’","country":"RU","coord":{"lon":143,"lat":50}}
+{"_id":2124604,"name":"Khomutovo","country":"RU","coord":{"lon":142.744431,"lat":46.885979}}
+{"_id":8144372,"name":"Kirlichnyy","country":"RU","coord":{"lon":39.835018,"lat":47.252258}}
+{"_id":2020162,"name":"Matveyevka","country":"RU","coord":{"lon":135.190002,"lat":48.548889}}
+{"_id":560399,"name":"Gonchary","country":"RU","coord":{"lon":44.355831,"lat":48.794998}}
+{"_id":2024173,"name":"Gardami","country":"RU","coord":{"lon":136.366669,"lat":49.25}}
+{"_id":2027748,"name":"Amurskaya Oblast’","country":"RU","coord":{"lon":128,"lat":54}}
+{"_id":809954,"name":"Muralevo","country":"RU","coord":{"lon":36.294331,"lat":51.79583}}
+{"_id":483828,"name":"Tekstil’shchik","country":"RU","coord":{"lon":37.844719,"lat":55.94083}}
+{"_id":1495797,"name":"Ovsyanka","country":"RU","coord":{"lon":92.551941,"lat":55.9575}}
+{"_id":1509223,"name":"Bol’shoy Istok","country":"RU","coord":{"lon":60.783298,"lat":56.719501}}
+{"_id":2013727,"name":"Vanavara","country":"RU","coord":{"lon":102.279716,"lat":60.34}}
+{"_id":2020221,"name":"Markha","country":"RU","coord":{"lon":129.726944,"lat":62.105282}}
+{"_id":817409,"name":"Kravtsovo","country":"RU","coord":{"lon":37.807701,"lat":55.05442}}
+{"_id":488839,"name":"Starodzhereliyevskaya","country":"RU","coord":{"lon":38.296799,"lat":45.47599}}
+{"_id":498698,"name":"Saransk","country":"RU","coord":{"lon":45.1749,"lat":54.1838}}
+{"_id":552252,"name":"Karpov","country":"RU","coord":{"lon":46.183331,"lat":49.683331}}
+{"_id":527191,"name":"Michurinsk","country":"RU","coord":{"lon":40.4907,"lat":52.8978}}
+{"_id":1497337,"name":"Norilsk","country":"RU","coord":{"lon":88.202698,"lat":69.3535}}
+{"_id":2123628,"name":"Magadan","country":"RU","coord":{"lon":150.800003,"lat":59.566669}}
+{"_id":2119441,"name":"Yuzhno-Sakhalinsk","country":"RU","coord":{"lon":142.733658,"lat":46.958118}}
+{"_id":1493870,"name":"Pyshma","country":"RU","coord":{"lon":63.251289,"lat":56.952259}}
+{"_id":553287,"name":"Kamyshin","country":"RU","coord":{"lon":45.416012,"lat":50.098331}}
+{"_id":1511736,"name":"Altayskoye","country":"RU","coord":{"lon":85.332497,"lat":51.953331}}
+{"_id":512047,"name":"Pavlovskaya","country":"RU","coord":{"lon":30.133329,"lat":59.566669}}
+{"_id":489271,"name":"Star","country":"RU","coord":{"lon":34.151829,"lat":53.623619}}
+{"_id":548408,"name":"Kirov","country":"RU","coord":{"lon":49.660069,"lat":58.596649}}
+{"_id":6864865,"name":"Sverdlovskiy","country":"RU","coord":{"lon":86.145401,"lat":54.583801}}
+{"_id":472328,"name":"Volot","country":"RU","coord":{"lon":30.702499,"lat":57.92778}}
+{"_id":471323,"name":"Voyskovitsy","country":"RU","coord":{"lon":29.963961,"lat":59.528671}}
+{"_id":501296,"name":"Roshchino","country":"RU","coord":{"lon":29.6085,"lat":60.251911}}
+{"_id":534841,"name":"Lisiy Nos","country":"RU","coord":{"lon":30.020081,"lat":60.016861}}
+{"_id":1494326,"name":"Pospelova","country":"RU","coord":{"lon":66.071068,"lat":56.234989}}
+{"_id":1506418,"name":"Gonba","country":"RU","coord":{"lon":83.574699,"lat":53.417198}}
+{"_id":1506676,"name":"Gari","country":"RU","coord":{"lon":62.34967,"lat":59.43074}}
+{"_id":1506938,"name":"Erzin","country":"RU","coord":{"lon":95.1623,"lat":50.261002}}
+{"_id":1507172,"name":"Dubinino","country":"RU","coord":{"lon":89.09111,"lat":55.619171}}
+{"_id":1507638,"name":"Chunoyar","country":"RU","coord":{"lon":97.321671,"lat":57.446671}}
+{"_id":1507745,"name":"Choya","country":"RU","coord":{"lon":86.5467,"lat":52.010799}}
+{"_id":1507801,"name":"Chistogorskiy","country":"RU","coord":{"lon":87.3843,"lat":53.983501}}
+{"_id":1507926,"name":"Chesma","country":"RU","coord":{"lon":60.653332,"lat":53.811111}}
+{"_id":1508636,"name":"Burla","country":"RU","coord":{"lon":78.330101,"lat":53.336201}}
+{"_id":1510131,"name":"Beya","country":"RU","coord":{"lon":90.913887,"lat":53.053329}}
+{"_id":1510370,"name":"Belyy Yar","country":"RU","coord":{"lon":85.042503,"lat":58.444721}}
+{"_id":1510817,"name":"Barzas","country":"RU","coord":{"lon":86.316673,"lat":55.716671}}
+{"_id":463885,"name":"Zelenchukskaya","country":"RU","coord":{"lon":41.589401,"lat":43.85804}}
+{"_id":490466,"name":"Sortavala","country":"RU","coord":{"lon":30.69178,"lat":61.705318}}
+{"_id":491882,"name":"Slobodskoy","country":"RU","coord":{"lon":50.177219,"lat":58.73222}}
+{"_id":494427,"name":"Shilovo","country":"RU","coord":{"lon":40.874001,"lat":54.3204}}
+{"_id":505421,"name":"Pridonskoy","country":"RU","coord":{"lon":39.072701,"lat":51.684059}}
+{"_id":515804,"name":"Tsotsin-Yurt","country":"RU","coord":{"lon":46.001671,"lat":43.23806}}
+{"_id":526346,"name":"Mirnyy","country":"RU","coord":{"lon":44.53598,"lat":61.33289}}
+{"_id":534838,"name":"Liski","country":"RU","coord":{"lon":39.51545,"lat":50.984051}}
+{"_id":563551,"name":"Ekazhevo","country":"RU","coord":{"lon":44.823059,"lat":43.212219}}
+{"_id":584298,"name":"Achkhoy-Martan","country":"RU","coord":{"lon":45.279999,"lat":43.189999}}
+{"_id":841006,"name":"Kochubeyevskoye","country":"RU","coord":{"lon":41.84528,"lat":44.644169}}
+{"_id":1486468,"name":"Yalutorovsk","country":"RU","coord":{"lon":66.300583,"lat":56.65358}}
+{"_id":1490277,"name":"Talitsa","country":"RU","coord":{"lon":60.021301,"lat":56.880402}}
+{"_id":1499163,"name":"Mayma","country":"RU","coord":{"lon":85.911392,"lat":52.019718}}
+{"_id":1541359,"name":"Lyantor","country":"RU","coord":{"lon":72.155457,"lat":61.61945}}
+{"_id":2021066,"name":"Kyakhta","country":"RU","coord":{"lon":106.44944,"lat":50.35083}}
+{"_id":7289676,"name":"Pokachi","country":"RU","coord":{"lon":75.368271,"lat":61.719818}}
+{"_id":511865,"name":"Pechenga","country":"RU","coord":{"lon":31.170271,"lat":69.525871}}
+{"_id":1506499,"name":"Glyadyanskoye","country":"RU","coord":{"lon":65.088333,"lat":54.907501}}
+{"_id":1506834,"name":"Filimonovo","country":"RU","coord":{"lon":95.461113,"lat":56.201111}}
+{"_id":1507035,"name":"Dzerzhinskoye","country":"RU","coord":{"lon":95.228333,"lat":56.834438}}
+{"_id":1507300,"name":"Dolgoderevenskoye","country":"RU","coord":{"lon":61.34444,"lat":55.34444}}
+{"_id":1507679,"name":"Chulym","country":"RU","coord":{"lon":80.957222,"lat":55.09972}}
+{"_id":1507934,"name":"Chervishevo","country":"RU","coord":{"lon":65.427818,"lat":56.94635}}
+{"_id":1508177,"name":"Cheremushki","country":"RU","coord":{"lon":91.39444,"lat":52.83556}}
+{"_id":1508217,"name":"Cheremshanka","country":"RU","coord":{"lon":60.26804,"lat":56.119202}}
+{"_id":1508230,"name":"Cheremnoye","country":"RU","coord":{"lon":83.213333,"lat":53.16972}}
+{"_id":1508260,"name":"Novobirilyussy","country":"RU","coord":{"lon":90.666107,"lat":56.951389}}
+{"_id":1508285,"name":"Chemal","country":"RU","coord":{"lon":86.004997,"lat":51.41111}}
+{"_id":1508427,"name":"Charyshskoye","country":"RU","coord":{"lon":83.559799,"lat":51.3978}}
+{"_id":1508458,"name":"Chany","country":"RU","coord":{"lon":76.764679,"lat":55.31205}}
+{"_id":1508501,"name":"Chadan","country":"RU","coord":{"lon":91.583328,"lat":51.283329}}
+{"_id":1508517,"name":"Bystryy Istok","country":"RU","coord":{"lon":84.387299,"lat":52.370998}}
+{"_id":1508894,"name":"Borovoy","country":"RU","coord":{"lon":86.083328,"lat":55.433331}}
+{"_id":1508918,"name":"Borovikha","country":"RU","coord":{"lon":83.837898,"lat":53.507198}}
+{"_id":1509008,"name":"Podkamennaya Tunguska","country":"RU","coord":{"lon":90.018059,"lat":61.601109}}
+{"_id":1509494,"name":"Bolsherechye","country":"RU","coord":{"lon":74.627159,"lat":56.092522}}
+{"_id":1509929,"name":"Bobrovskiy","country":"RU","coord":{"lon":60.980701,"lat":56.673199}}
+{"_id":1509955,"name":"Bobrovka","country":"RU","coord":{"lon":61.745499,"lat":54.047001}}
+{"_id":1509958,"name":"Bobrovka","country":"RU","coord":{"lon":83.876389,"lat":53.183609}}
+{"_id":1509999,"name":"Blagoveshchenka","country":"RU","coord":{"lon":79.866669,"lat":52.833328}}
+{"_id":1510030,"name":"Biskamzha","country":"RU","coord":{"lon":89.527222,"lat":53.449718}}
+{"_id":1510214,"name":"Berezovo","country":"RU","coord":{"lon":65.041939,"lat":63.938061}}
+{"_id":1510335,"name":"Beregovoy","country":"RU","coord":{"lon":73.219841,"lat":55.173012}}
+{"_id":1510377,"name":"Belyy Yar","country":"RU","coord":{"lon":91.390282,"lat":53.603889}}
+{"_id":1510395,"name":"Belyashi","country":"RU","coord":{"lon":87.416672,"lat":49.73333}}
+{"_id":1510421,"name":"Belozerskoye","country":"RU","coord":{"lon":65.584167,"lat":55.821388}}
+{"_id":1510451,"name":"Beloyarskiy","country":"RU","coord":{"lon":61.414299,"lat":56.7584}}
+{"_id":1510514,"name":"Belogorsk","country":"RU","coord":{"lon":88.489723,"lat":55.01778}}
+{"_id":1510697,"name":"Baykalovo","country":"RU","coord":{"lon":63.76841,"lat":57.398109}}
+{"_id":1510709,"name":"Bayevo","country":"RU","coord":{"lon":80.76667,"lat":53.283329}}
+{"_id":1510821,"name":"Baryshevo","country":"RU","coord":{"lon":83.182198,"lat":54.956402}}
+{"_id":1510842,"name":"Barsovo","country":"RU","coord":{"lon":73.166672,"lat":61.166672}}
+{"_id":1510960,"name":"Balgazyn","country":"RU","coord":{"lon":95.199997,"lat":51}}
+{"_id":1510998,"name":"Balakhta","country":"RU","coord":{"lon":91.599998,"lat":55.380001}}
+{"_id":1511135,"name":"Azovo","country":"RU","coord":{"lon":73.023666,"lat":54.699718}}
+{"_id":1511146,"name":"Azanka","country":"RU","coord":{"lon":64.789268,"lat":58.040119}}
+{"_id":1511217,"name":"Aya","country":"RU","coord":{"lon":85.801682,"lat":51.94532}}
+{"_id":1511276,"name":"Atagay","country":"RU","coord":{"lon":99.387497,"lat":55.103298}}
+{"_id":1511303,"name":"Askiz","country":"RU","coord":{"lon":90.428329,"lat":53.137218}}
+{"_id":1511361,"name":"Artyshta","country":"RU","coord":{"lon":86.290901,"lat":54.1222}}
+{"_id":1511364,"name":"Artybash","country":"RU","coord":{"lon":87.276108,"lat":51.792782}}
+{"_id":1511382,"name":"Armizonskoye","country":"RU","coord":{"lon":67.673607,"lat":55.94611}}
+{"_id":1511538,"name":"Antipino","country":"RU","coord":{"lon":65.757553,"lat":57.106789}}
+{"_id":1511646,"name":"Andra","country":"RU","coord":{"lon":65.887779,"lat":62.514721}}
+{"_id":1511709,"name":"Alzamay","country":"RU","coord":{"lon":98.664398,"lat":55.556198}}
+{"_id":1511846,"name":"Aleksandrovskoye","country":"RU","coord":{"lon":85.390556,"lat":56.740829}}
+{"_id":1511997,"name":"Aktash","country":"RU","coord":{"lon":87.73333,"lat":50.299999}}
+{"_id":1512064,"name":"Ak-Dovurak","country":"RU","coord":{"lon":90.599998,"lat":51.183331}}
+{"_id":1512101,"name":"Agirish","country":"RU","coord":{"lon":63.02306,"lat":61.924721}}
+{"_id":1512102,"name":"Aginskoye","country":"RU","coord":{"lon":94.900002,"lat":55.259998}}
+{"_id":1512210,"name":"Abatskoye","country":"RU","coord":{"lon":70.455528,"lat":56.287479}}
+{"_id":1512218,"name":"Aban","country":"RU","coord":{"lon":96.059998,"lat":56.669998}}
+{"_id":1512223,"name":"Abalak","country":"RU","coord":{"lon":68.594437,"lat":58.128609}}
+{"_id":1512238,"name":"Abagur","country":"RU","coord":{"lon":87.252602,"lat":53.730801}}
+{"_id":1536648,"name":"Istok","country":"RU","coord":{"lon":60.778889,"lat":56.790859}}
+{"_id":1537749,"name":"Ilichevo","country":"RU","coord":{"lon":91.840279,"lat":53.278889}}
+{"_id":1538638,"name":"Lokomotivnyy","country":"RU","coord":{"lon":60.568401,"lat":53.011799}}
+{"_id":6267910,"name":"Badalyk","country":"RU","coord":{"lon":92.93,"lat":56.099998}}
+{"_id":1538640,"name":"Svobodnyy","country":"RU","coord":{"lon":60.396111,"lat":58.039719}}
+{"_id":1538642,"name":"Sibirskiy","country":"RU","coord":{"lon":83.757698,"lat":53.577702}}
+{"_id":1539045,"name":"Malinovskiy","country":"RU","coord":{"lon":62.839722,"lat":61.195278}}
+{"_id":1540484,"name":"Kedrovyy","country":"RU","coord":{"lon":79.515556,"lat":57.519718}}
+{"_id":1540852,"name":"Starokamyshinsk","country":"RU","coord":{"lon":61.6031,"lat":55.055401}}
+{"_id":1540853,"name":"Timiryazevskiy","country":"RU","coord":{"lon":60.762501,"lat":54.929169}}
+{"_id":1540882,"name":"Bazhovo","country":"RU","coord":{"lon":61.6054,"lat":55.060398}}
+{"_id":1540905,"name":"Roshchino","country":"RU","coord":{"lon":61.2635,"lat":55.309299}}
+{"_id":1544583,"name":"Uyskoye","country":"RU","coord":{"lon":60.004719,"lat":54.377499}}
+{"_id":2012349,"name":"Krasnyy Chikoy","country":"RU","coord":{"lon":108.751198,"lat":50.3643}}
+{"_id":2012379,"name":"Zvezdnyy","country":"RU","coord":{"lon":106.479897,"lat":56.749199}}
+{"_id":2012510,"name":"Zhireken","country":"RU","coord":{"lon":117.307602,"lat":52.824902}}
+{"_id":2012530,"name":"Zhigansk","country":"RU","coord":{"lon":123.371109,"lat":66.769722}}
+{"_id":2012532,"name":"Zhigalovo","country":"RU","coord":{"lon":105.157784,"lat":54.809719}}
+{"_id":2012544,"name":"Zhemchug","country":"RU","coord":{"lon":102.459,"lat":51.6861}}
+{"_id":2012561,"name":"Zheleznodorozhnyy","country":"RU","coord":{"lon":102.765282,"lat":57.91222}}
+{"_id":2012570,"name":"Zhatay","country":"RU","coord":{"lon":129.829437,"lat":62.159439}}
+{"_id":2012623,"name":"Zavodskoy","country":"RU","coord":{"lon":132.292221,"lat":43.459721}}
+{"_id":2012655,"name":"Zarechnyy","country":"RU","coord":{"lon":107.51445,"lat":51.851391}}
+{"_id":2012728,"name":"Zakamensk","country":"RU","coord":{"lon":103.286301,"lat":50.3741}}
+{"_id":2012735,"name":"Zaigrayevo","country":"RU","coord":{"lon":108.270302,"lat":51.833599}}
+{"_id":2012956,"name":"Yerbogachen","country":"RU","coord":{"lon":108.010834,"lat":61.276669}}
+{"_id":2013030,"name":"Yekaterinovka","country":"RU","coord":{"lon":133.047226,"lat":42.924999}}
+{"_id":2013032,"name":"Yekaterinoslavka","country":"RU","coord":{"lon":129.113861,"lat":50.37336}}
+{"_id":2013089,"name":"Yaroslavskiy","country":"RU","coord":{"lon":132.207214,"lat":44.168331}}
+{"_id":2013176,"name":"Yakovlevka","country":"RU","coord":{"lon":133.477219,"lat":44.424999}}
+{"_id":2013216,"name":"Vysokogornyy","country":"RU","coord":{"lon":139.149994,"lat":50.116669}}
+{"_id":2013272,"name":"Vozdvizhenka","country":"RU","coord":{"lon":131.949997,"lat":43.900002}}
+{"_id":2013279,"name":"Vostok","country":"RU","coord":{"lon":135.883331,"lat":46.485561}}
+{"_id":2013326,"name":"Volochayevka Vtoraya","country":"RU","coord":{"lon":134.578323,"lat":48.56778}}
+{"_id":2013375,"name":"Vitim","country":"RU","coord":{"lon":112.557777,"lat":59.451111}}
+{"_id":2013406,"name":"Vidim","country":"RU","coord":{"lon":103.110603,"lat":56.408798}}
+{"_id":2013441,"name":"Vershino-Shakhtaminskiy","country":"RU","coord":{"lon":117.886803,"lat":51.301201}}
+{"_id":2013459,"name":"Verkh-Usugli","country":"RU","coord":{"lon":115.166672,"lat":52.700001}}
+{"_id":2013639,"name":"Verkhnevilyuysk","country":"RU","coord":{"lon":120.316673,"lat":63.445278}}
+{"_id":2013921,"name":"Ust-Kuyga","country":"RU","coord":{"lon":135.600006,"lat":70.01667}}
+{"_id":2013942,"name":"Ust-Karsk","country":"RU","coord":{"lon":118.807701,"lat":52.701099}}
+{"_id":2014038,"name":"Ushumun","country":"RU","coord":{"lon":126.533333,"lat":52.783329}}
+{"_id":2014369,"name":"Ulety","country":"RU","coord":{"lon":112.484901,"lat":51.357201}}
+{"_id":2014694,"name":"Tyrma","country":"RU","coord":{"lon":132.166672,"lat":50.083328}}
+{"_id":2014705,"name":"Tyret Pervaya","country":"RU","coord":{"lon":102.310562,"lat":53.67028}}
+{"_id":2014743,"name":"Tygda","country":"RU","coord":{"lon":126.333328,"lat":53.116669}}
+{"_id":2015136,"name":"Topolevo","country":"RU","coord":{"lon":135.197495,"lat":48.499439}}
+{"_id":2015179,"name":"Tommot","country":"RU","coord":{"lon":126.292503,"lat":58.95639}}
+{"_id":2015217,"name":"Tokur","country":"RU","coord":{"lon":132.899994,"lat":53.133331}}
+{"_id":2015428,"name":"Tayturka","country":"RU","coord":{"lon":103.460831,"lat":52.869171}}
+{"_id":2015469,"name":"Novonukutskiy","country":"RU","coord":{"lon":102.7117,"lat":53.700199}}
+{"_id":2015545,"name":"Tarbagatay","country":"RU","coord":{"lon":107.360199,"lat":51.48032}}
+{"_id":2015547,"name":"Tarbagatay","country":"RU","coord":{"lon":109.093102,"lat":51.174702}}
+{"_id":2015686,"name":"Talakan","country":"RU","coord":{"lon":130.366669,"lat":50.316669}}
+{"_id":2015707,"name":"Takhtamygda","country":"RU","coord":{"lon":123.566673,"lat":54.099998}}
+{"_id":2015842,"name":"Svirsk","country":"RU","coord":{"lon":103.332497,"lat":53.085831}}
+{"_id":2015852,"name":"Svetlaya","country":"RU","coord":{"lon":138.329727,"lat":46.538891}}
+{"_id":2015913,"name":"Suntar","country":"RU","coord":{"lon":117.631943,"lat":62.14444}}
+{"_id":2016110,"name":"Sretensk","country":"RU","coord":{"lon":117.709297,"lat":52.2453}}
+{"_id":2016170,"name":"Srednebelaya","country":"RU","coord":{"lon":128.010559,"lat":50.659439}}
+{"_id":2016183,"name":"Spasskoye","country":"RU","coord":{"lon":132.796936,"lat":44.610828}}
+{"_id":2016205,"name":"Sotnikovo","country":"RU","coord":{"lon":107.479073,"lat":51.88446}}
+{"_id":2016216,"name":"Sosnovo-Ozerskoye","country":"RU","coord":{"lon":111.541801,"lat":52.524899}}
+{"_id":2016277,"name":"Solovevsk","country":"RU","coord":{"lon":124.433327,"lat":54.23333}}
+{"_id":2016305,"name":"Solnechnyy","country":"RU","coord":{"lon":137.5,"lat":60.416672}}
+{"_id":2016307,"name":"Solnechnyy","country":"RU","coord":{"lon":136.631943,"lat":50.72139}}
+{"_id":2016308,"name":"Solnechnyy","country":"RU","coord":{"lon":137.033325,"lat":50.583328}}
+{"_id":2016402,"name":"Smolyaninovo","country":"RU","coord":{"lon":132.467499,"lat":43.295559}}
+{"_id":2016405,"name":"Smolenka","country":"RU","coord":{"lon":113.497398,"lat":52.135231}}
+{"_id":2016430,"name":"Slavyanka","country":"RU","coord":{"lon":131.38472,"lat":42.863331}}
+{"_id":2016474,"name":"Sivakovka","country":"RU","coord":{"lon":132.363892,"lat":44.476669}}
+{"_id":2016477,"name":"Sivaki","country":"RU","coord":{"lon":126.75,"lat":52.633331}}
+{"_id":2016628,"name":"Shtykovo","country":"RU","coord":{"lon":132.37056,"lat":43.38306}}
+{"_id":2016651,"name":"Shkotovo","country":"RU","coord":{"lon":132.362503,"lat":43.33194}}
+{"_id":2016680,"name":"Shirokiy","country":"RU","coord":{"lon":129.522995,"lat":49.757999}}
+{"_id":2016733,"name":"Shestakovo","country":"RU","coord":{"lon":103.959999,"lat":56.491501}}
+{"_id":2016757,"name":"Shelopugino","country":"RU","coord":{"lon":117.559898,"lat":51.651402}}
+{"_id":2016907,"name":"Severomuysk","country":"RU","coord":{"lon":113.426666,"lat":56.14806}}
+{"_id":2016942,"name":"Seryshevo","country":"RU","coord":{"lon":128.378616,"lat":51.09333}}
+{"_id":2016961,"name":"Sergeyevka","country":"RU","coord":{"lon":133.348053,"lat":43.339169}}
+{"_id":2017042,"name":"Selikhino","country":"RU","coord":{"lon":137.499573,"lat":50.367161}}
+{"_id":2017063,"name":"Selenduma","country":"RU","coord":{"lon":106.240562,"lat":50.913059}}
+{"_id":2017155,"name":"Saskylakh","country":"RU","coord":{"lon":114.083328,"lat":71.916672}}
+{"_id":2017364,"name":"Russkiy","country":"RU","coord":{"lon":131.864166,"lat":43.014721}}
+{"_id":2017377,"name":"Rudnyy","country":"RU","coord":{"lon":134.959442,"lat":44.28278}}
+{"_id":2017378,"name":"Rudnogorsk","country":"RU","coord":{"lon":103.7519,"lat":57.263901}}
+{"_id":2017384,"name":"Rudnaya Pristan","country":"RU","coord":{"lon":135.8116,"lat":44.361401}}
+{"_id":2017409,"name":"Romny","country":"RU","coord":{"lon":129.289383,"lat":50.724979}}
+{"_id":2017478,"name":"Razdolnoye","country":"RU","coord":{"lon":131.916672,"lat":43.549999}}
+{"_id":2017537,"name":"Putyatin","country":"RU","coord":{"lon":132.417221,"lat":42.861938}}
+{"_id":2017626,"name":"Primorskiy","country":"RU","coord":{"lon":131.587494,"lat":43.098331}}
+{"_id":2017632,"name":"Priiskovyy","country":"RU","coord":{"lon":116.633331,"lat":51.933331}}
+{"_id":2017646,"name":"Priargunsk","country":"RU","coord":{"lon":119.101196,"lat":50.369099}}
+{"_id":2017648,"name":"Priamurskiy","country":"RU","coord":{"lon":134.902786,"lat":48.521671}}
+{"_id":2017658,"name":"Preobrazheniye","country":"RU","coord":{"lon":133.906387,"lat":42.901939}}
+{"_id":2017756,"name":"Popova","country":"RU","coord":{"lon":131.722778,"lat":42.960281}}
+{"_id":2017842,"name":"Pokosnoye","country":"RU","coord":{"lon":101.053612,"lat":55.525829}}
+{"_id":2017851,"name":"Pogranichnyy","country":"RU","coord":{"lon":131.376938,"lat":44.406391}}
+{"_id":2017979,"name":"Petropavlovka","country":"RU","coord":{"lon":105.319603,"lat":50.611401}}
+{"_id":2018021,"name":"Pervomayskiy","country":"RU","coord":{"lon":115.625427,"lat":51.670132}}
+{"_id":2018069,"name":"Peleduy","country":"RU","coord":{"lon":112.740562,"lat":59.628891}}
+{"_id":2018207,"name":"Oyek","country":"RU","coord":{"lon":104.455559,"lat":52.586109}}
+{"_id":2018214,"name":"Ovsyanka","country":"RU","coord":{"lon":126.883331,"lat":53.583328}}
+{"_id":2018301,"name":"Osa","country":"RU","coord":{"lon":103.876938,"lat":53.387218}}
+{"_id":2018365,"name":"Orlovskiy","country":"RU","coord":{"lon":114.833328,"lat":51.033329}}
+{"_id":2018436,"name":"Onokhoy","country":"RU","coord":{"lon":108.074699,"lat":51.931999}}
+{"_id":2018567,"name":"Olenek","country":"RU","coord":{"lon":112.469101,"lat":68.509247}}
+{"_id":2018813,"name":"Novyy Uoyan","country":"RU","coord":{"lon":111.705559,"lat":56.157219}}
+{"_id":2018857,"name":"Novosysoyevka","country":"RU","coord":{"lon":133.364166,"lat":44.235001}}
+{"_id":2018864,"name":"Novoshakhtinskiy","country":"RU","coord":{"lon":132.151382,"lat":44.025002}}
+{"_id":2018888,"name":"Novopokrovka","country":"RU","coord":{"lon":134.508896,"lat":45.853062}}
+{"_id":2018896,"name":"Novopavlovka","country":"RU","coord":{"lon":109.209099,"lat":51.217201}}
+{"_id":2018925,"name":"Novokruchininskiy","country":"RU","coord":{"lon":113.76667,"lat":51.783329}}
+{"_id":2018930,"name":"Novokizhinginsk","country":"RU","coord":{"lon":109.591698,"lat":51.6115}}
+{"_id":2018964,"name":"Novobureyskiy","country":"RU","coord":{"lon":129.877396,"lat":49.798}}
+{"_id":2019004,"name":"Novaya Igirma","country":"RU","coord":{"lon":103.911201,"lat":57.1334}}
+{"_id":2019009,"name":"Novaya Bryan","country":"RU","coord":{"lon":108.269096,"lat":51.7159}}
+{"_id":2019118,"name":"Nizhniy Tsasuchey","country":"RU","coord":{"lon":115.133331,"lat":50.51667}}
+{"_id":2019135,"name":"Nizhniy Kuranakh","country":"RU","coord":{"lon":125.486938,"lat":58.835281}}
+{"_id":2019167,"name":"Nizhniy Bestyakh","country":"RU","coord":{"lon":129.908615,"lat":61.959438}}
+{"_id":2019296,"name":"Never","country":"RU","coord":{"lon":124.166672,"lat":53.98333}}
+{"_id":2019323,"name":"Nerchinskiy Zavod","country":"RU","coord":{"lon":119.610001,"lat":51.3088}}
+{"_id":2019388,"name":"Nekrasovka","country":"RU","coord":{"lon":135.232498,"lat":48.352501}}
+{"_id":2019429,"name":"Naushki","country":"RU","coord":{"lon":106.10556,"lat":50.382778}}
+{"_id":2019710,"name":"Mukhorshibir","country":"RU","coord":{"lon":107.829971,"lat":51.049858}}
+{"_id":2019718,"name":"Mukhen","country":"RU","coord":{"lon":136.100006,"lat":48.099998}}
+{"_id":2019867,"name":"Mokhsogollokh","country":"RU","coord":{"lon":128.920273,"lat":61.46806}}
+{"_id":2019884,"name":"Mogzon","country":"RU","coord":{"lon":111.960602,"lat":51.7435}}
+{"_id":2019935,"name":"Mnogovershinnyy","country":"RU","coord":{"lon":139.924164,"lat":53.93528}}
+{"_id":2019936,"name":"Mnogoudobnoye","country":"RU","coord":{"lon":132.438889,"lat":43.46917}}
+{"_id":2019945,"name":"Mishelevka","country":"RU","coord":{"lon":103.171944,"lat":52.857498}}
+{"_id":2020208,"name":"Markovo","country":"RU","coord":{"lon":107.088058,"lat":57.32056}}
+{"_id":2020311,"name":"Mamakan","country":"RU","coord":{"lon":114.002777,"lat":57.816109}}
+{"_id":2020559,"name":"Makkaveyevo","country":"RU","coord":{"lon":113.945396,"lat":51.75325}}
+{"_id":2020584,"name":"Magistralnyy","country":"RU","coord":{"lon":107.445831,"lat":56.172501}}
+{"_id":2020595,"name":"Magan","country":"RU","coord":{"lon":129.527786,"lat":62.105282}}
+{"_id":2020626,"name":"Sergeyevka","country":"RU","coord":{"lon":131.656113,"lat":44.334999}}
+{"_id":2020687,"name":"Luchki","country":"RU","coord":{"lon":132.256393,"lat":44.28722}}
+{"_id":2020707,"name":"Londoko","country":"RU","coord":{"lon":131.983337,"lat":49.033329}}
+{"_id":2020738,"name":"Litovko","country":"RU","coord":{"lon":135.174164,"lat":49.236111}}
+{"_id":2020744,"name":"Listvyanka","country":"RU","coord":{"lon":104.869301,"lat":51.8535}}
+{"_id":2020752,"name":"Lipovtsy","country":"RU","coord":{"lon":131.724442,"lat":44.201389}}
+{"_id":2020824,"name":"Lermontovka","country":"RU","coord":{"lon":134.338333,"lat":47.145279}}
+{"_id":2020848,"name":"Leninskiy","country":"RU","coord":{"lon":125.430557,"lat":58.577782}}
+{"_id":2020871,"name":"Lebedinyy","country":"RU","coord":{"lon":125.51667,"lat":58.51667}}
+{"_id":2020887,"name":"Lazo","country":"RU","coord":{"lon":133.655823,"lat":45.871941}}
+{"_id":2020888,"name":"Lazo","country":"RU","coord":{"lon":133.901382,"lat":43.381672}}
+{"_id":2021017,"name":"Kysyl-Syr","country":"RU","coord":{"lon":122.761673,"lat":63.898609}}
+{"_id":2021031,"name":"Kyren","country":"RU","coord":{"lon":102.1408,"lat":51.6828}}
+{"_id":2021041,"name":"Kyra","country":"RU","coord":{"lon":111.975304,"lat":49.577599}}
+{"_id":2021207,"name":"Kurort-Darasun","country":"RU","coord":{"lon":113.715988,"lat":51.199051}}
+{"_id":2021370,"name":"Kuldur","country":"RU","coord":{"lon":131.633331,"lat":49.216671}}
+{"_id":2021434,"name":"Kudara-Somon","country":"RU","coord":{"lon":107.40139,"lat":50.15472}}
+{"_id":2021504,"name":"Kropotkin","country":"RU","coord":{"lon":115.321671,"lat":58.509441}}
+{"_id":2021613,"name":"Krasnorechenskiy","country":"RU","coord":{"lon":135.353195,"lat":44.626499}}
+{"_id":2021766,"name":"Korfovskiy","country":"RU","coord":{"lon":135.056396,"lat":48.21833}}
+{"_id":2021799,"name":"Konstantinovka","country":"RU","coord":{"lon":127.98333,"lat":49.616669}}
+{"_id":2021908,"name":"Kokuy","country":"RU","coord":{"lon":117.552902,"lat":52.203701}}
+{"_id":2021954,"name":"Knyaze-Volkonskoye","country":"RU","coord":{"lon":135.456665,"lat":48.464169}}
+{"_id":2021980,"name":"Klyuchevskiy","country":"RU","coord":{"lon":119.451897,"lat":53.5317}}
+{"_id":2021992,"name":"Klichka","country":"RU","coord":{"lon":117.996002,"lat":50.445702}}
+{"_id":2022003,"name":"Kizhinga","country":"RU","coord":{"lon":109.909698,"lat":51.846199}}
+{"_id":2022024,"name":"Kitoy","country":"RU","coord":{"lon":103.900002,"lat":52.599998}}
+{"_id":2022143,"name":"Khuzhir","country":"RU","coord":{"lon":107.339722,"lat":53.19389}}

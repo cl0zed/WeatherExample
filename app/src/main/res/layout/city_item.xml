@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:a="http://schemas.android.com/apk/res/android"
+    a:layout_width="match_parent"
+    a:layout_height="match_parent">
+
+    <TextView
+        a:id="@+id/city_name"
+        a:layout_width="wrap_content"
+        a:layout_height="wrap_content"
+        a:layout_weight="1"
+        a:padding="@dimen/app_name_padding"/>
+
+    <Button
+        a:layout_width="wrap_content"
+        a:layout_height="wrap_content"
+        a:text = "@string/get_more_info"
+        a:padding="@dimen/app_name_padding"
+        a:id="@+id/more_info"/>
+
+</LinearLayout>

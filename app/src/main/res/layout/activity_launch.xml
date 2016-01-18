@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:a="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    a:background="@color/primary"
+    a:layout_width="match_parent"
+    a:layout_height="match_parent"
+    tools:context="com.example.weatherapp.Launch">
+
+    <LinearLayout
+        a:orientation="vertical"
+        a:layout_width="match_parent"
+        a:layout_height="wrap_content"
+        a:layout_centerInParent="true">
+
+            <TextView
+                a:layout_width="match_parent"
+                a:layout_height="wrap_content"
+                a:gravity="center"
+                style = "@style/LaunchApp"
+                a:text = "@string/app_name"/>
+
+            <TextView
+                a:layout_width="match_parent"
+                a:layout_height="wrap_content"
+                a:gravity="center"
+                a:textColor="@android:color/white"
+                a:paddingTop="@dimen/app_name_padding"
+                a:text = "@string/wait_data_load"/>
+
+            <ProgressBar
+                a:paddingTop="@dimen/app_name_padding"
+                a:layout_width="match_parent"
+                a:layout_height="wrap_content"
+                a:layout_gravity="center" />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

@@ -1,62 +1,50 @@
 package com.example.weatherapp;
 
-import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
-import android.widget.Toast;
+import android.support.design.widget.FloatingActionButton;
+import android.support.v7.widget.Toolbar;
+import android.widget.ListView;
 
-import com.activeandroid.util.SQLiteUtils;
-import com.example.weatherapp.database.Cities;
-import com.example.weatherapp.utils.Events;
-import com.example.weatherapp.utils.FillCitiesTable;
-import com.google.common.eventbus.Subscribe;
+import com.example.weatherapp.Adapters.MainAdapter;
+import com.example.weatherapp.database.CityWeather;
 
 import java.util.List;
 
+import butterknife.Bind;
+import butterknife.ButterKnife;
+import butterknife.OnClick;
 
-public class MainActivity extends AppCompatActivity {
 
-    private final String PREFERNCES_NAME = "WeatherAppPreferences";
-    private final String JSON_PARSED = "JSONParsed";
-    private SharedPreferences preferences;
+public class MainActivity extends EventActivity {
+
+
+    @Bind(R.id.choosen_city_list)
+    protected ListView view;
+
+    @Bind(R.id.toolbar)
+    protected Toolbar toolbar;
+
+    @Bind(R.id.add_new_city)
+    protected FloatingActionButton button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        preferences = this.getSharedPreferences(PREFERNCES_NAME, MODE_PRIVATE);
-        SharedPreferences.Editor editor = preferences.edit();
-        editor.putBoolean(JSON_PARSED, false);
-        editor.apply();
+        ButterKnife.bind(this);
+        setSupportActionBar(toolbar);
 
-        if (!preferences.getBoolean(JSON_PARSED, false)){
-            new FillCitiesTable(this).start();
-        }
+        List<CityWeather> weathers = CityWeather.getNames();
+        MainAdapter adapter = new MainAdapter(this, weathers);
+        view.setAdapter(adapter);
     }
 
-    @Override
-    protected void onStart() {
-        super.onStart();
-        Events.register(this);
+    @OnClick(R.id.add_new_city)
+    public void addNewCity(){
+
     }
 
-    @Override
-    protected void onStop() {
-        super.onStop();
-        Events.unregister(this);
-    }
 
-    @Subscribe
-    public void on(String result){
-        List<Cities> cities = Cities.getByName("Moskva");
-        int i = 0;
-        for (Cities city:cities){
-            ++i;
-        }
-        Toast.makeText(this, "Time is: " + result + "  :", Toast.LENGTH_LONG).show();
-        SharedPreferences.Editor editor = preferences.edit();
-        editor.putBoolean(JSON_PARSED, true);
-        editor.apply();
-    }
+
+
 }

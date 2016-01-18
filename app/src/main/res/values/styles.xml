@@ -1,9 +1,24 @@
 <resources>
 
-    <style name="AppTheme" parent="Theme.AppCompat.Light">
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:windowActionBarOverlay">true</item>
-        <item name="android:windowActionBar">false</item>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/status_bar_color</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
     </style>
 
+    <style name="AppNameText">
+        <item name="android:textSize">@dimen/app_name_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:paddingLeft">@dimen/app_name_padding</item>
+        <item name="android:paddingTop">@dimen/app_name_padding</item>
+    </style>
+
+    <style name="LaunchApp">
+        <item name="android:textSize">@dimen/launch_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <color name="status_bar_color">#906090</color>
+    <color name="primary">#9080FF</color>
 </resources>
