@@ -7,6 +7,7 @@ import com.example.weatherapp.R;
 import com.example.weatherapp.database.City;
 import com.example.weatherapp.database.CitiesResult;
 import com.example.weatherapp.database.CityWeather;
+import com.example.weatherapp.events.FilledDataBaseEvent;
 import com.google.gson.Gson;
 
 import java.io.BufferedReader;
@@ -32,22 +33,21 @@ public class FillCitiesTable extends Thread {
                 ++i;
                 CitiesResult result = gson.fromJson(line, CitiesResult.class);
                 new City(result.id, result.name, false);
-                if (i % 100 == 0 || i >= 450){
-                    Log.d("Count", "Added city number: " + i);
-                }
             }
         } catch (IOException e){
             Log.d("Exception", "Read or write exception");
         }
 
         City city = City.getByName("Moskva").get(0);
+        new City(city.cityID, city.cityName, true);
         new CityWeather(city.cityID, city.cityName, "" );
 
         city = City.getByName("Sankt-Peterburg").get(0);
+        new City(city.cityID, city.cityName, true);
         new CityWeather(city.cityID, city.cityName, "" );
 
         start = System.currentTimeMillis() - start;
-        Events.postOnUIThread("" + start);
+        Events.postOnUIThread(new FilledDataBaseEvent());
     }
 
     @Override

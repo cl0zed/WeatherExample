@@ -32,7 +32,6 @@ public class MainAdapter extends BaseAdapter {
 
     @Override
     public int getCount() {
-        Log.d("Count", "Count is: "+ list.size());
         return list.size();
     }
 

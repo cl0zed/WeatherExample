@@ -35,7 +35,7 @@ public class City extends Model{
 
     public static List<String> getAllNames(){
         List<String> names = new ArrayList<>();
-        List<City> cities = new Select().from(City.class).orderBy("city_name").execute();
+        List<City> cities = new Select().from(City.class).where("is_choosen = ? ", false).orderBy("city_name").execute();
         for (City city: cities){
             names.add(city.cityName);
         }

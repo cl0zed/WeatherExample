@@ -119,7 +119,6 @@
 {"_id":490936,"name":"Solokhaul","country":"RU","coord":{"lon":39.678055,"lat":43.799442}}
 {"_id":570140,"name":"Bzogu","country":"RU","coord":{"lon":39.718613,"lat":43.812778}}
 {"_id":501043,"name":"Rozhdestvenskiy","country":"RU","coord":{"lon":39.583889,"lat":43.86639}}
-{"_id":804366,"name":"-","country":"RU","coord":{"lon":40.099167,"lat":44.304443}}
 {"_id":530631,"name":"Maloye Obraztsovo","country":"RU","coord":{"lon":38.150002,"lat":54.916668}}
 {"_id":481501,"name":"Troitskoye","country":"RU","coord":{"lon":35.917778,"lat":55.193054}}
 {"_id":2048736,"name":"Sanatornaya","country":"RU","coord":{"lon":131.984161,"lat":43.227501}}
@@ -131,10 +130,8 @@
 {"_id":823631,"name":"Yakornaya Shchel'","country":"RU","coord":{"lon":39.565834,"lat":43.810555}}
 {"_id":584003,"name":"Agoy","country":"RU","coord":{"lon":39.029999,"lat":44.139999}}
 {"_id":501165,"name":"Rostovskaya Oblast’","country":"RU","coord":{"lon":42,"lat":47}}
-{"_id":553428,"name":"-","country":"RU","coord":{"lon":39.696945,"lat":47.279446}}
 {"_id":2013229,"name":"Vyazemskiy","country":"RU","coord":{"lon":134.752502,"lat":47.537777}}
 {"_id":797077,"name":"Popovka","country":"RU","coord":{"lon":40.347221,"lat":48.698891}}
-{"_id":798056,"name":"-","country":"RU","coord":{"lon":44.862778,"lat":48.735001}}
 {"_id":472045,"name":"Voronezh","country":"RU","coord":{"lon":39.169998,"lat":51.666389}}
 {"_id":575343,"name":"Bolokhovo","country":"RU","coord":{"lon":37.818333,"lat":54.093613}}
 {"_id":819162,"name":"Voslinka","country":"RU","coord":{"lon":38.533611,"lat":54.726112}}
