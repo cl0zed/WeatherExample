@@ -18,6 +18,7 @@
         a:layout_alignParentRight="true"
         a:layout_alignParentBottom="true"
         a:layout_margin="30dp"
+        a:background="@color/primary"
         a:src="@mipmap/ic_add"/>
 
 </RelativeLayout>

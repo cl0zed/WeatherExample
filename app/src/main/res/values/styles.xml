@@ -19,6 +19,6 @@
         <item name="android:textColor">@android:color/white</item>
     </style>
 
-    <color name="status_bar_color">#906090</color>
-    <color name="primary">#9080FF</color>
+    <color name="status_bar_color">#0C6F5F</color>
+    <color name="primary">#169C88</color>
 </resources>

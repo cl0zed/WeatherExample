@@ -8,6 +8,8 @@ import com.example.weatherapp.database.City;
 import com.example.weatherapp.database.CitiesResult;
 import com.example.weatherapp.database.CityWeather;
 import com.example.weatherapp.events.FilledDataBaseEvent;
+import com.example.weatherapp.net.CityWeatherData;
+import com.example.weatherapp.net.UpdateAllCities;
 import com.google.gson.Gson;
 
 import java.io.BufferedReader;
@@ -40,14 +42,15 @@ public class FillCitiesTable extends Thread {
 
         City city = City.getByName("Moskva").get(0);
         new City(city.cityID, city.cityName, true);
-        new CityWeather(city.cityID, city.cityName, "" );
+        new CityWeather(city.cityID, city.cityName, "");
 
         city = City.getByName("Sankt-Peterburg").get(0);
         new City(city.cityID, city.cityName, true);
-        new CityWeather(city.cityID, city.cityName, "" );
+        new CityWeather(city.cityID, city.cityName, "");
 
-        start = System.currentTimeMillis() - start;
+
         Events.postOnUIThread(new FilledDataBaseEvent());
+
     }
 
     @Override

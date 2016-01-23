@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:a="http://schemas.android.com/apk/res/android"
+    a:layout_width="match_parent"
+    a:layout_height="match_parent">
+
+    <include layout="@layout/actionbar"/>
+
+    <ListView
+        a:paddingTop="?attr/actionBarSize"
+        a:layout_width="match_parent"
+        a:layout_height="wrap_content"
+        a:id = "@+id/more_info_list"/>
+
+</RelativeLayout>

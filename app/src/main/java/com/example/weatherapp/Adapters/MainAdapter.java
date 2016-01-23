@@ -2,6 +2,7 @@ package com.example.weatherapp.Adapters;
 
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -10,9 +11,12 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.example.weatherapp.AdditionalInformation;
 import com.example.weatherapp.R;
 import com.example.weatherapp.database.CityWeather;
+import com.example.weatherapp.database.DayWeatherResult;
 
 import java.util.List;
 
@@ -37,7 +41,6 @@ public class MainAdapter extends BaseAdapter {
 
     @Override
     public Object getItem(int position) {
-        Log.d("Item", "Count is: "+ list.get(position));
         return list.get(position);
     }
 
@@ -47,7 +50,7 @@ public class MainAdapter extends BaseAdapter {
     }
 
     @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
+    public View getView(final int position, View convertView, ViewGroup parent) {
         ViewHolder holder;
         if (convertView == null){
             LayoutInflater inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
@@ -57,10 +60,25 @@ public class MainAdapter extends BaseAdapter {
         } else {
             holder = (ViewHolder) convertView.getTag();
         }
-        holder.mName.setText(list.get(position).name);
+        holder.mName.setText(list.get(position).name );
+        DayWeatherResult temp = new DayWeatherResult(list.get(position).weather);
+        if (temp.dayTemp != -1){
+            holder.mTemp.setText("Temp: " + String.valueOf(temp.dayTemp));
+        } else {
+            holder.mTemp.setText("No information about temperature");
+        }
+
         holder.mButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                String weather = list.get(position).weather;
+                if (weather.equals("")){
+                    Toast.makeText(context, "No additional information about city. Check your connection and restart app", Toast.LENGTH_LONG).show();
+                } else{
+                    Intent intent = new Intent(context, AdditionalInformation.class);
+                    intent.putExtra("weather", list.get(position).weather);
+                    context.startActivity(intent);
+                }
 
             }
         });
@@ -71,6 +89,9 @@ public class MainAdapter extends BaseAdapter {
 
         @Bind(R.id.city_name)
         public TextView mName;
+
+        @Bind(R.id.city_temp)
+        public TextView mTemp;
 
         @Bind(R.id.more_info)
         Button mButton;

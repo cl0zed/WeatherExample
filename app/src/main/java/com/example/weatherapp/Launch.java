@@ -5,6 +5,7 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 
 import com.example.weatherapp.events.FilledDataBaseEvent;
+import com.example.weatherapp.net.UpdateAllCities;
 import com.example.weatherapp.utils.FillCitiesTable;
 import com.google.common.eventbus.Subscribe;
 

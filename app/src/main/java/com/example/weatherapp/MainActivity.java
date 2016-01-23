@@ -3,11 +3,15 @@ package com.example.weatherapp;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.Toast;
 
 import com.example.weatherapp.Adapters.MainAdapter;
 import com.example.weatherapp.database.CityWeather;
+import com.example.weatherapp.net.UpdateAllCities;
+import com.google.common.eventbus.Subscribe;
 
 import java.util.List;
 
@@ -16,7 +20,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 
-public class MainActivity extends EventActivity{
+public class MainActivity extends EventActivity implements AdapterView.OnItemClickListener{
 
 
     private boolean backPressed;
@@ -34,16 +38,17 @@ public class MainActivity extends EventActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
+        new UpdateAllCities();
         setSupportActionBar(toolbar);
-
         initAdapter();
-        view.setAdapter(mAdapter);
+
     }
 
     public void initAdapter(){
         List<CityWeather> weathers = CityWeather.getNames();
         mAdapter = new MainAdapter(this, weathers);
-        mAdapter.notifyDataSetChanged();
+        view.setOnItemClickListener(this);
+        view.setAdapter(mAdapter);
     }
 
     @OnClick(R.id.add_new_city)
@@ -57,7 +62,6 @@ public class MainActivity extends EventActivity{
         super.onResume();
         backPressed = false;
         initAdapter();
-        view.setAdapter(mAdapter);
     }
 
     @Override
@@ -71,5 +75,22 @@ public class MainActivity extends EventActivity{
             Toast.makeText(this, "Press one more time to exit", Toast.LENGTH_LONG).show();
             backPressed = true;
         }
+    }
+
+    @Override
+    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+        CityWeather weather = (CityWeather) mAdapter.getItem(position);
+        if (weather.weather.equals("")){
+            Toast.makeText(this, "No additional information about city. Check your connection and restart app", Toast.LENGTH_LONG).show();
+        } else{
+            Intent intent = new Intent(this, AdditionalInformation.class);
+            intent.putExtra("weather", weather.weather);
+            startActivity(intent);
+        }
+    }
+
+    @Subscribe
+    public void on(String result){
+        initAdapter();
     }
 }
