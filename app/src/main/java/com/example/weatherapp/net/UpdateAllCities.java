@@ -11,7 +11,7 @@ public class UpdateAllCities{
     public UpdateAllCities(){
         List<CityWeather> cities = CityWeather.getNames();
         for (CityWeather city: cities){
-            new CityWeatherData(city.uid, city.name).start();
+            new CityWeatherData(city.uid, city.name, false).start();
         }
         Events.postOnUIThread("refresh");
     }

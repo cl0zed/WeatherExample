@@ -11,6 +11,7 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.example.weatherapp.R;
+import com.example.weatherapp.WeatherApplication;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -79,7 +80,7 @@ public class AdditionalAdapter extends BaseAdapter {
 
         try{
             long seconds = object.getLong("dt") * 1000;
-
+            Context context = WeatherApplication.get().getApplicationContext();
             Calendar calendar = Calendar.getInstance();
             calendar.setTimeInMillis(seconds);
 
@@ -88,19 +89,19 @@ public class AdditionalAdapter extends BaseAdapter {
                         + calendar.get(Calendar.YEAR);
 
 
-            holder.currentDate.setText("Date: " + date);
+            holder.currentDate.setText(context.getString(R.string.date, date));
 
             JSONObject jsonTemp = object.getJSONObject("temp");
-            holder.dayTemp.setText("Daily temp: " + String.valueOf(jsonTemp.getDouble("day")));
-            holder.nightTemp.setText("Night temp: " + String.valueOf(jsonTemp.getDouble("night")));
-            holder.morningTemp.setText("Morning temp: " + String.valueOf(jsonTemp.getDouble("morn")));
+            holder.dayTemp.setText(context.getString(R.string.daily_temp, String.valueOf(jsonTemp.getDouble("day"))));
+            holder.nightTemp.setText(context.getString(R.string.night_temp,String.valueOf(jsonTemp.getDouble("night"))));
+            holder.morningTemp.setText(context.getString(R.string.morning_temp, String.valueOf(jsonTemp.getDouble("morn"))));
 
-            holder.dayPressure.setText("Pressure: " + String.valueOf(object.getDouble("pressure")));
-            holder.dayHumidity.setText("Humidity: " +String.valueOf(object.getInt("humidity")));
+            holder.dayPressure.setText(context.getString(R.string.weather_pressure, String.valueOf(object.getDouble("pressure"))));
+            holder.dayHumidity.setText(context.getString(R.string.weather_humidity, String.valueOf(object.getInt("humidity"))));
 
             JSONArray jsonDesc = object.getJSONArray("weather");
             JSONObject description = jsonDesc.getJSONObject(0);
-            holder.weatherDescription.setText("Description: " + description.getString("description"));
+            holder.weatherDescription.setText(context.getString(R.string.weather_description, description.getString("description")));
 
         }catch (JSONException e){
             Log.e("Error", "Can't parse weather");

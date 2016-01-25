@@ -72,7 +72,7 @@ public class MainActivity extends EventActivity implements AdapterView.OnItemCli
             intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             startActivity(intent);
         } else{
-            Toast.makeText(this, "Press one more time to exit", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, this.getString(R.string.back_button_exit_app), Toast.LENGTH_LONG).show();
             backPressed = true;
         }
     }
@@ -81,7 +81,7 @@ public class MainActivity extends EventActivity implements AdapterView.OnItemCli
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
         CityWeather weather = (CityWeather) mAdapter.getItem(position);
         if (weather.weather.equals("")){
-            Toast.makeText(this, "No additional information about city. Check your connection and restart app", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, this.getString(R.string.no_connection), Toast.LENGTH_LONG).show();
         } else{
             Intent intent = new Intent(this, AdditionalInformation.class);
             intent.putExtra("weather", weather.weather);

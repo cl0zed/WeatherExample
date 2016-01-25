@@ -19,6 +19,7 @@ public class CityWeatherData extends Thread {
 
     private long cityID;
     private String cityName;
+    private boolean adapterUpdate;
 
     @Override
     public void run() {
@@ -32,8 +33,9 @@ public class CityWeatherData extends Thread {
         }catch (Exception e){
             Log.d("Exception", "result exception");
         }
-
-
+        if (adapterUpdate){
+            Events.postOnUIThread("refresh");
+        }
     }
 
     @Override
@@ -41,9 +43,10 @@ public class CityWeatherData extends Thread {
         super.start();
     }
 
-    public CityWeatherData(long id, String name){
+    public CityWeatherData(long id, String name, boolean isUpdate){
         this.cityID = id;
         this.cityName = name;
+        this.adapterUpdate = isUpdate;
     }
 }
 

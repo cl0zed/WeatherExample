@@ -63,9 +63,9 @@ public class MainAdapter extends BaseAdapter {
         holder.mName.setText(list.get(position).name );
         DayWeatherResult temp = new DayWeatherResult(list.get(position).weather);
         if (temp.dayTemp != -1){
-            holder.mTemp.setText("Temp: " + String.valueOf(temp.dayTemp));
+            holder.mTemp.setText(context.getString(R.string.preview_temp, String.valueOf(temp.dayTemp)));
         } else {
-            holder.mTemp.setText("No information about temperature");
+            holder.mTemp.setText(context.getString(R.string.no_information_about_temp));
         }
 
         holder.mButton.setOnClickListener(new View.OnClickListener() {
@@ -73,7 +73,7 @@ public class MainAdapter extends BaseAdapter {
             public void onClick(View v) {
                 String weather = list.get(position).weather;
                 if (weather.equals("")){
-                    Toast.makeText(context, "No additional information about city. Check your connection and restart app", Toast.LENGTH_LONG).show();
+                    Toast.makeText(context, context.getString(R.string.no_connection), Toast.LENGTH_LONG).show();
                 } else{
                     Intent intent = new Intent(context, AdditionalInformation.class);
                     intent.putExtra("weather", list.get(position).weather);

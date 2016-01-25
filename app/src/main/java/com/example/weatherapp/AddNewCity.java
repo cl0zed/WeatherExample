@@ -70,9 +70,7 @@ public class AddNewCity extends EventActivity implements SearchView.OnQueryTextL
         String cityName =(String) mAdapter.getItem(position);
         City city = City.getByName(cityName).get(0);
         new City(city.cityID, city.cityName, true);
-        new CityWeather(city.cityID, city.cityName, "");
-        new CityWeatherData(city.cityID, cityName).start();
-        Events.postOnUIThread("refresh");
+        new CityWeatherData(city.cityID, cityName, true).start();
         finish();
     }
 }
